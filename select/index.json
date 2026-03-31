@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "質問、恋って何でしょうか?（feat. 犬塚日葵(CV:鈴代紗弓)）",
+  "base_artist": "MARUMOCHI from HoneyWorks",
+  "createdAt": "2026-03-31T04:13:30.493529Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "質問、恋って何でしょうか? feat.犬塚日葵(CV:鈴代紗弓)",
+      "artist": "MARUMOCHI from HoneyWorks",
+      "has_synced": false,
+      "path": "select/pl_01_質問、恋って何でしょうか__feat.犬塚日葵(CV_鈴代紗弓)_MARUMOCHI_from_HoneyWorks.txt"
+    }
+  ]
+}
